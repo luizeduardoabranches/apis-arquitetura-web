@@ -7,5 +7,11 @@
 <a>
   <img src="prints\clima\Inserir&ListarCodigo.png"/>
 </a>
+<a>
+  <img src="prints\clima\InserirResultado.png"/>
+</a>
+<a>
+  <img src="prints\clima\ListarResultado.png"/>
+</a>
 
 
