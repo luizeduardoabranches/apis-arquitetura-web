@@ -6,7 +6,7 @@
 
 <div>
   <a>
-    <img src="prints\clima\Inserir&ListarCodigo.png"/>
+    <img src="prints\clima\InserirListarCodigo.png"/>
   </a>
   <a>
     <img src="prints\clima\InserirResultado.png"/>
